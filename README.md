@@ -117,8 +117,8 @@ swapoff -a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-org/wazuh-4.14-automated-installer.git
-cd wazuh-4.14-automated-installer
+git clone https://github.com/Siddeswar4Cyber/wazuh-automated-installer.git
+cd wazuh-automated-installer
 ```
 
 ### 2. Make the Script Executable
